@@ -2,3 +2,88 @@
     margin: 0;
     padding: 0;
 }
+
+#navFirst{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+ #navMid div:first-child{
+    border-bottom: 2px solid black;
+}
+
+#navbarMonstera{
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#navMid{
+    margin-top: 30px;
+    display: flex;
+    font-size: 20px;
+    width: 800px;
+    justify-content: space-between;
+}
+
+#navEnd{
+    margin-right: 40px;
+    margin-top: 30px;
+    display: flex;
+    width: 200px;
+    justify-content: space-around;
+}
+
+
+        /*                      navbar end here */
+
+
+#midWhole{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#midWholePart13{
+    display: flex;
+    margin-top: 30px;
+    
+}
+ul{
+    margin-left: 50px;
+}
+li:nth-child(3){
+    width: 660px;
+   
+}
+li:nth-child(4){
+    width: 660px;
+   
+}
+#monstera{
+  
+    font-size: 80px;
+    font-weight: bold;
+}
+#midWholePart1{
+  margin-top: 200px;
+}
+
+.midWholePart13Parts{
+    display: flex;
+}
+
+#imgMain{
+    margin-top: 80px;
+    height: 80vh;
+}
+#midWholePart121 h1{
+    margin: 50px 0px 0px 100px;
+    font-size: 40px;
+    background-color: #266907;
+    color: #fff;
+    width: 220px;
+    border-radius: 30px;
+    padding: 10px 10px 10px 20px;
+  
+    
+}
