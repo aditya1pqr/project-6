@@ -65,7 +65,7 @@ li:nth-child(4){
     font-weight: bold;
 }
 #midWholePart1{
-  margin-top: 200px;
+  margin-top: 180px;
 }
 
 .midWholePart13Parts{
@@ -81,9 +81,14 @@ li:nth-child(4){
     font-size: 40px;
     background-color: #266907;
     color: #fff;
-    width: 220px;
+    width: 260px;
     border-radius: 30px;
     padding: 10px 10px 10px 20px;
   
     
+}
+
+ div:nth-child(2)
+{
+margin-left: 10px;
 }
